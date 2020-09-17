@@ -5,11 +5,18 @@ Realizado por:
 	Jara, Claudia
 	Sagman, "Emanuel
 	Romero, "Adrian
+	
+Objetivo: 
+	Realizar un programa que permita jugar al 4 en línea con diversas modificaciones:
+		* Deben poder jugar varios jugadores (más de 2)
+		* El tablero debe ser de 3 dimensiones
+		* Debe haber cartas con poderes especiales
 
 Habilidades desarrolladas:
 
 	* Administración de la memoria dinámica
 	* Capacidad resolutiva de problemas
+	* Utilización de estructuras de datos en la resolución de problemas
 	* Programacion orientada a objetos en C++
 	* Trabajo en grupo
 	* Documentación del código
